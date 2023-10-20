@@ -2,10 +2,10 @@
 red='\033[0;31m'
 green='\033[0;32m'
 plain='\033[0m'
-wk_dir=~/v2ray-tel-bot
+wk_dir=~/xpanel_tgbot
 config_dir=config
 config_file=config.yml
-git_url="https://github.com/TeleDark/v2ray-tel-bot.git"
+git_url="https://github.com/MiliScripts/xpanel_tgbot.git"
 
 # check root
 [[ $EUID -ne 0 ]] && echo -e "${red}Fatal error：${plain} Please run this script with root privilege \n " && exit 1
