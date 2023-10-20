@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+requests
+psutil
+pymongo
+jdatetime
+pyromod
+pykeyboard
+aiohttp
+apscheduler

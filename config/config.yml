@@ -1,0 +1,24 @@
+#[ Telegeram Credentials ]
+Api_id :  21899197
+Api_hash :  "f640a80de276caab180f3c6523214f66" 
+Bot_token :  "6515359831:AAEMNP3D1wM-_jl9iLTXUVxxTSEpQLJOPKU"
+owner : 5361491365
+botid : 'textxpranelBot'
+
+# [ Xpanel credentials ]
+host_url : "https://meow.miladfarzian.ir:26228/api/"
+api_token : "16950881218EZXGRWLJSHOYVC"
+domain : "meow.miladfarzian.ir"
+port : 22 
+# [ Enter the username and password of main admin of panel here]
+db_username : "milad"
+db_password : "milad64523"
+
+
+#[ Mongodb String Get it from mongodb.com ]
+mongo : "mongodb+srv://admin:pvsender64523@pvsender.p4x3bno.mongodb.net/?retryWrites=true&w=majority"
+sup_id : '@meowjml'
+
+#[ extra  options ]
+roo_b_etmam : 7 #categorizes the users  with this  for "رو با انقضا"
+
